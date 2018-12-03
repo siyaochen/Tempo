@@ -1,4 +1,4 @@
-# Tempo
+# tempo
 
 Video Demonstration (Love on the Brain - Rihanna): https://youtu.be/JlRZYt3tNGA
 
